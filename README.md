@@ -9,6 +9,7 @@ Creación de un blog para aprender [Git](http://https://git-scm.com/ "Git") y [G
 - El verdadero amor por las buenas prácticas
 - Trucos muy del profesor
 - Las personalidades multiples de Freddy
+- Creado por el increible Mexico Team
 
 Y como un amable recordatorio: **Este Readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso").
 
